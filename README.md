@@ -1,128 +1,26 @@
 <h1 align="center">Hi 👋, I'm Anirudh Sharma</h1>
+<h5 align="center">As a full-stack developer with a specialty in the MERN stack, I excel in building high-security, scalable applications using React and Node.js. In my current role, I handle diverse, client-focused projects that demand top-notch security, performance, and reliability. Alongside my MERN expertise, I lead Salesforce development initiatives, applying Apex, Flows, Triggers, and admin skills to create customized, impactful solutions. My work involves gathering precise client requirements, collaborating closely with team leads, and ensuring project success, consistently earning high satisfaction from clients and team members alike.</h5>
+<img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node.js+Developer;Salesforce+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=50">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudhsharma8209&label=Profile%20views&color=0e75b6&style=flat" alt="anirudhsharma8209" /> </p>
 
-<p align="center">
-Passionate Full Stack Developer specializing in the <b>MERN Stack</b> with experience in building secure, scalable, and high-performance applications.  
-Currently working on enterprise solutions and Salesforce development while focusing on performance, architecture, and real-world client requirements.
-</p>
+<p align="left"> <a href="https://twitter.com/anirudh__002" target="blank"><img src="https://img.shields.io/twitter/follow/anirudh__002?logo=twitter&style=for-the-badge" alt="anirudh__002" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+- 🌱 I’m currently learning **React Native**
 
----
+- 👨‍💻 All of my projects are available at [https://anirudhsharma8209.github.io/Profile-Portfolio/](https://anirudhsharma8209.github.io/Profile-Portfolio/)
 
-# 🚀 About Me
+- 💬 Ask me about **MERN, Java, C++, MySQL, Github, Docker**
 
-* 🔭 Currently working on **MERN Stack Applications**
-* ☁️ Building **secure REST APIs using Node.js & Express**
-* ⚡ Working on **Salesforce Development (Apex, Flows, Triggers)**
-* 🌱 Currently learning **React Native & Advanced System Design**
-* 👨‍💻 Portfolio:
-  **https://anirudhsharma8209.github.io/Profile-Portfolio/**
-* 📫 Email: **[devprakashsharma7790@gmail.com](mailto:devprakashsharma7790@gmail.com)**
+- 📫 How to reach me **devprakashsharma7790@gmail.com**
 
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-
-### Salesforce
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce)
-
-* Apex
-* Flows
-* Triggers
-* Salesforce Admin
-
-### Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-
----
-
-# ⭐ Featured Projects
-
-### 🔹 CRM System
-
-Full stack CRM built with MERN stack including authentication, role management, and workflow automation.
-
-### 🔹 HRMS System
-
-Employee management platform with dashboards, analytics, and secure access control.
-
-### 🔹 Dashboard Analytics APIs
-
-Node.js REST APIs developed for reporting, order analytics, and business insights.
-
----
-
-# 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://linkedin.com/in/anirudh-sharma-231517186" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://twitter.com/anirudh__002" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a>
-
-<a href="https://instagram.com/mr_anirudh_002" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
+<a href="https://twitter.com/anirudh__002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirudh__002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirudh-sharma-231517186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-sharma-231517186" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_anirudh_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_anirudh_002" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anirudhsharma8209&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhsharma8209&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Top Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhsharma8209&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anirudhsharma8209&label=Profile%20Views&color=blue&style=flat"/>
-</p>
