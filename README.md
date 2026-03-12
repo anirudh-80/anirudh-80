@@ -10,20 +10,19 @@
 
   <div style="background:black;color:white;padding:20px;">
 
-  <img src="https://i.postimg.cc/cL87mLqr/anirudh_professional_profile_zoomed.png" 
-      style="width:70px;height:70px;border-radius:50%;object-fit:cover;margin-bottom:10px;" />
+  <img src="https://i.postimg.cc/cL87mLqr/anirudh_professional_profile_zoomed.png" style="width:70px;height:70px;border-radius:50%;object-fit:cover;margin-bottom:10px;" />
 
-    <h2 style="margin:5px 0;">Anirudh Sharma</h2>
+  <h2 style="margin:5px 0;">Anirudh Sharma</h2>
 
-    <p style="font-size:14px;line-height:1.5;margin-top:8px;">
+  <p style="font-size:14px;line-height:1.5;margin-top:8px;">
       SDE | MERN Stack Developer | Salesforce Developer | React | Node.js | Building Secure & Scalable Web Applications
     </p>
 
-    <p style="font-size:13px;margin-top:10px;color:#ccc;">
+   <p style="font-size:13px;margin-top:10px;color:#ccc;">
       iBirds Software Services Pvt. Ltd. | Maharshi Dayanand University
     </p>
 
-    <a href="https://in.linkedin.com/in/anirudh002"
+  <a href="https://in.linkedin.com/in/anirudh002"
        target="_blank"
        style="display:inline-block;margin-top:15px;padding:10px 18px;border:1px solid white;border-radius:25px;text-decoration:none;color:white;font-weight:500;">
        View profile
@@ -32,8 +31,6 @@
   </div>
 
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="anirudh002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anirudh002?trk=profile-badge">Anirudh Sharma</a></div>
               
 <img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" />
 
