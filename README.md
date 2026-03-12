@@ -1,5 +1,38 @@
 <h1 align="center">Hi 👋, I'm Anirudh Sharma</h1>
 <h5 align="center">As a full-stack developer with a specialty in the MERN stack, I excel in building high-security, scalable applications using React and Node.js. In my current role, I handle diverse, client-focused projects that demand top-notch security, performance, and reliability. Alongside my MERN expertise, I lead Salesforce development initiatives, applying Apex, Flows, Triggers, and admin skills to create customized, impactful solutions. My work involves gathering precise client requirements, collaborating closely with team leads, and ensuring project success, consistently earning high satisfaction from clients and team members alike.</h5>
+
+<div style="width:380px;border-radius:12px;overflow:hidden;box-shadow:0 4px 15px rgba(0,0,0,0.2);font-family:Arial, Helvetica, sans-serif;">
+
+  <div style="background:#3f4a55;padding:12px 18px;font-size:22px;font-weight:bold;color:white;display:flex;align-items:center;">
+    <span>Linked</span>
+    <span style="background:white;color:#3f4a55;padding:2px 6px;margin-left:3px;border-radius:4px;font-weight:bold;">in</span>
+  </div>
+
+  <div style="background:black;color:white;padding:20px;">
+
+  <img src="https://i.postimg.cc/cL87mLqr/anirudh_professional_profile_zoomed.png" 
+      style="width:70px;height:70px;border-radius:50%;object-fit:cover;margin-bottom:10px;" />
+
+    <h2 style="margin:5px 0;">Anirudh Sharma</h2>
+
+    <p style="font-size:14px;line-height:1.5;margin-top:8px;">
+      SDE | MERN Stack Developer | Salesforce Developer | React | Node.js | Building Secure & Scalable Web Applications
+    </p>
+
+    <p style="font-size:13px;margin-top:10px;color:#ccc;">
+      iBirds Software Services Pvt. Ltd. | Maharshi Dayanand University
+    </p>
+
+    <a href="https://in.linkedin.com/in/anirudh002"
+       target="_blank"
+       style="display:inline-block;margin-top:15px;padding:10px 18px;border:1px solid white;border-radius:25px;text-decoration:none;color:white;font-weight:500;">
+       View profile
+    </a>
+
+  </div>
+
+</div>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="anirudh002" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anirudh002?trk=profile-badge">Anirudh Sharma</a></div>
               
 <img align="right" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="400" />
@@ -26,14 +59,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="left">
-
-<a href="https://linkedin.com/in/anirudh002" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-Anirudh%20Sharma-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://twitter.com/anirudh__002" target="_blank">
-<img align="center" src="https://img.shields.io/twitter/follow/anirudh__002?logo=twitter&style=for-the-badge" />
-</a>
-
-</p>
